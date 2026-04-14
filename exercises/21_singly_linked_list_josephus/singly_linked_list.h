@@ -1,6 +1,9 @@
 #ifndef SINGLY_LINKED_LIST_H
 #define SINGLY_LINKED_LIST_H
 
+// 声明外部头指针
+extern struct node *head;
+
 // 通用单链表实现
 
 // 定义链表节点结构

@@ -1,0 +1,3 @@
+myfile /home/ruilun_yang/QEMU_C/qemu-camp-2026-c-Gmikele/exercises/20_mybash/src/mybash/main.c
+cd /
+exit
